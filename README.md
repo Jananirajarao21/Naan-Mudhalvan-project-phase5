@@ -11,4 +11,4 @@ Then we have made sure that there are no missing values ,null and nan values and
 The datas are all set for training and then moved to testing
 after testing the datas are plotted and the output is acquired
 after the output we have to evaluate the model ,various methods are mentioned in the file are used to evalutate the model.
-Thus the model is created.# Naan-Mudhalvan-project-phase5
+Thus the model is created.
